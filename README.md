@@ -11,14 +11,14 @@
 
 ## Deskripsi Proyek
 Proyek ini membangun sistem analisis geospasial berbasis Google Earth Engine (GEE)
-dan Google Colab untuk menganalisis [Urban Heat Island] di wilayah Kota Surabaya,
+dan Google Colab untuk menganalisis Analisis Spasial Potensi Banjir di Kota Surabaya,
 Jawa Timur, Indonesia.
 
 ## Area of Interest (AOI)
 - **Lokasi**: [Kota Surabaya/Jawa Timur/Indonesia]
 - **Koordinat**: [112.24252647646517,-7.805844136513645, 113.21481651552767, -6.90148870185857]
 - **Luas**: [10782.62] km²
-- **Alasan pemilihan**: [Surabaya dipilih karena memiliki kawasan terbangun yang padat serta variasi vegetasi dan perairan, sehingga menarik untuk menganalisis perbedaan suhu permukaan dan fenomena Urban Heat Island (UHI).]
+- **Alasan pemilihan**: [Surabaya dipilih karena memiliki wilayah yang relatif datar dan kawasan terbangun yang cukup padat. Kondisi tersebut dapat meningkatkan potensi terjadinya genangan atau banjir.]
 
 ## Platform dan Tools
 - Google Earth Engine (GEE) — JavaScript API & Python API
